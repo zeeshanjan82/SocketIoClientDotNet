@@ -3,8 +3,6 @@
 
 Socket.IO Client Library for .Net
 
-* NuGet Package: [![SocketIoClientDotNet](https://img.shields.io/nuget/dt/SocketIoClientDotNet.svg)](https://www.nuget.org/packages/SocketIoClientDotNet/)
-
 This is the Socket.IO Client Library for C#, which is ported from the [JavaScript client](https://github.com/Automattic/socket.io-client).
 
 See also: [EngineIoClientDotNet](https://github.com/Quobject/EngineIoClientDotNet)
@@ -48,20 +46,5 @@ This library supports all of the features the JS client does, including events, 
 
 [MIT](http://opensource.org/licenses/MIT)
 
-## Support me
-
-If you like this project you may support me by donating something, starring this repository or reporting bugs and ideas in the issue section.
-
-[![Donate PayPal](pics/donate-paypal.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=UDX488Y3Y4K36)
-[![Donate Bitcoins](pics/donate-bitcoins.png)](https://coinbase.com/checkouts/621810df8d49a896e170dd5d5bd28a73)
-[![Report issue](pics/issues.png)](https://github.com/Quobject/SocketIoClientDotNet/issues/new)
-
-Thank you!
-
-List of donators:
- 
-* Reinis Kopmanis - $20
-* Evan Reeves - $16
-* Gianni Angelozzi - $30
-* Robert Sachar - $75
-
+## Say Hi
+Please find more on me at www.zeeshanjan.com
